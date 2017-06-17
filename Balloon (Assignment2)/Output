@@ -1,0 +1,13 @@
+run:
+First Balloon is: redBalloon | With Altitude: 100meters
+Second Balloon is: blueBalloon | With Altitude: 0meters
+
+First Balloon is: redBalloon | Altitude is now: 250meters
+Second Balloon is: blueBalloon | Altitude is now: 150meters
+
+First Balloon is: redBalloon | Altitude is now: 150meters
+Second Balloon is: blueBalloon | Altitude is now: 150meters
+
+First Balloon is: redBalloon | Altitude is now: 600meters
+Second Balloon is: blueBalloon | Altitude is now: 0meters
+BUILD SUCCESSFUL (total time: 0 seconds)

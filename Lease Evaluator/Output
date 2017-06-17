@@ -1,0 +1,15 @@
+run:
+Customer Name: Marvin Dore
+Monthly Payment: 239.0
+Term of lease: 36
+Down Payment: 1915.0
+Max free miles: 10500
+Miles Driven: 45678
+Charge Per Mile: 0.25
+The annual cost per month: 417.99847222222223
+
+
+Your New Monthly Payment Is: 219.0
+Therefore Your New ACPM is: 396.59847222222226
+
+BUILD SUCCESSFUL (total time: 0 seconds)
