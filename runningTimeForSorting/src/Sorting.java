@@ -23,6 +23,14 @@ import java.sql.Time;
  
     }
 
+    public void OBubbleSortTime(int [] myArr)
+    {
+        long start = System.currentTimeMillis();
+        this.optimizedBubbleSort(myArr);
+        long end = System.currentTimeMillis();
+        return end - start;
+    }
+
     public void bubbleSort(int arr[])
     {
 
