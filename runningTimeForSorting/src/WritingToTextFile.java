@@ -38,7 +38,7 @@ public class WritingToTextFile
             }
             output.println(arraySize + "," + obj.bubbleTime(values) + ","
                           + obj.selectionTime(values) + "," 
-                          + obj.quickTime(values));
+                          + obj.quickTime(values)) + "," + obj.OBubbleSortTime(values);
             arraySize += 1000;
         }
         //close output stream
